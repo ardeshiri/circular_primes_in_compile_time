@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615137221 source:/home/arash/Code/codeblocks/test_prime/main.cpp
+	<iostream>
+	<concepts>
+
